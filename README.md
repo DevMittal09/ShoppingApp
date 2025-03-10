@@ -1,4 +1,4 @@
-# emailapp
+# Shopping app
 
 A new Flutter project.
 
